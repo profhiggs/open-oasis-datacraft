@@ -6,8 +6,17 @@
    \ \_______\ \__\ \__\____\_\  \ \__\____\_\  \        \ \_______\ \__\ \__\   \ \__\ \ \__\ \__\ \_______\ \__\\ _\\ \__\ \__\ \__\       \ \__\
     \|_______|\|__|\|__|\_________\|__|\_________\        \|_______|\|__|\|__|    \|__|  \|__|\|__|\|_______|\|__|\|__|\|__|\|__|\|__|        \|__|
                        \|_________|   \|_________|                                                                                                 
-                                                                                                                                                   
-                                                                                                                                                   
+
+
+
+Oasis DataCraft
+
+
+Oasis DataCraft is the first token deployed by an AI trained on real-time Oasis gameplay, designed to reward players in the immersive world of Minecraft. This project leverages the Oasis interactive world model developed by Decart and Etched. Using diffusion transformers, Oasis generates gameplay based on user inputs in an autoregressive manner.
+
+For more information, visit our joint blog post and check out the live demo for the most powerful version of the model!
+ 
+                                                                                                                                                                                                                                                                                            
 
 ![](./media/arch.png)
 
@@ -44,3 +53,12 @@ The resulting video will be saved to `video.mp4`. Here's are some examples of a 
 ![](media/sample_1.gif)
 
 > Hint: try swapping out the `.mp4` input file in the script to try different environments!
+
+
+About Oasis DataCraft
+Inspired by Etched and Sprooos, Oasis DataCraft aims to capture the unique experience of AI-driven gameplay.
+
+https://x.com/Etched/status/1852089772329869436
+https://x.com/sprooos/status/1852108008995852425
+
+Feel free to contribute and explore the potential of AI in gaming!
